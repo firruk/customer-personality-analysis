@@ -1,2 +1,6 @@
 # customer-personality-analysis
 This is a big data module project and report 
+A comprehensive investigation of a company's ideal clients is known as customer personality analysis. It enables a company to better understand its consumers and makes it simpler to change goods to meet the individual wants, habits, and concerns of various sorts of customers.
+Customer personality analysis enables a company to change its product based on its target customers from various customer categories. Instead of wasting money marketing a new product to every client in the firm's database, a corporation may determine which customer group is most likely to buy the product and then sell the product just to that specific segment.
+Data mining can be found in a variety of industries and is valuable in a variety of research initiatives, but it is most commonly employed in business to create predictions based on the product or service being sold.
+In this coursework, the dataset is utilized with data mining techniques and tools to better understand the customer's personality and demand. The dataset's challenges include the fact that the data is dispersed and has to be aggregated in order to ease data mining visualizations. Furthermore, visualization might be a challenge since modifications to the dataset are required for the visualization to be statistically accepted.
